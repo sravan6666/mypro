@@ -1,0 +1,15 @@
+export default {
+  black: "#222",
+  primary: "#363DB5",
+  medium: "#4B6ABA",
+  light: "#AFCEE0",
+  creame: "#F9F9F9",
+  white: "#FFF",
+  error: "#F01F0E",
+  success: "#2AA952",
+  successLight: "#58F13F10",
+  successDark: "#029160",
+  grey: "#9B9B9B",
+  skyblue: "#3FBDF1",
+  skyblueLight: "#3FBDF110",
+};
